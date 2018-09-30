@@ -1,0 +1,12 @@
+{
+  "updater__progress": "GOG Galaxy is updating",
+  "tray_icon__exit": "Avslutt",
+  "tray_icon__open": "Åpne",
+  "application_name": "GOG Galaxy",
+  "tray_icon__bubble": "GOG Galaxy minimized, click to re-open, right-click to close",
+  "updater__error": "There was a problem with updating the application. You can always download the latest version from:",
+  "comm_service_lost__error_appname": "Connection to Communication Service was lost and could not be restored! %appName% will now shutdown.",
+  "database_load__error": "Failed to load game database.",
+  "error_popup__title_appname": "%appName% - Error",
+  "database_upgrade__error_appname": "There was a problem reading your local %appName% database, and it had to be reset. You can use the Scan & Import functionality to re-add your games to %appName%. Your save games, achievements and game time data are safely stored on our servers and were not affected."
+}
