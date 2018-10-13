@@ -1,6 +1,6 @@
 ## Norsk
 
-Denne oversettelsen er her i påvente av den kanskje eller kanskje ikke blir akseptert av David Carpenter, ettersom den for øyeblikket ikke er 100% fullført.
+Denne oversettelsen er her i påvente av at den kanskje eller kanskje ikke blir akseptert av David Carpenter, ettersom den for øyeblikket ikke er 100% fullført.
 
 For å benytte denne oversettelsen, vil du måtte både:
 
