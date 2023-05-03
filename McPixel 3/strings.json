@@ -1,0 +1,350 @@
+{
+	"title":"McPixel 3",
+	"intro_presents":"Devolver Digital presenterer",
+	"intro_game_by":"Et spill av Sos Sosowski",
+	"introscroller":"Hi! Thank you for playing McPixel 3! The game is packed with adventure! There are 100 levels full of funny gags, mind-bending puzzles and action minigames! I really hope you like the game! Have tons of fun and an amazing day! Cheers! Sos",
+	"language_name":"Norsk",
+	"choose_your_language":"VELG DITT SPRÅK",
+	"hint_tight_title": "Kinkige situasjoner!",
+	"hint_tight_text": "Press \*bb to cycle|through nearby items|if they're too close.",
+	"hint_skip_title": "Hopp over det du har sett!"
+	"hint_skip_mouse_text": "Hold høyreklikk eller mellomrom|for å hoppe over klipp|du allerede har sett!"
+	"hint_skip_pad_text": "Hold \*bb for å hoppe|over klipp du har sett!"
+	"hint_skip_touch_text_new": "Swipe sideways|to skip cutscenes|you already seen!"
+	"hint_skip_touch_text": "Tap the fast forward|button to skip scenes|you already seen!"
+	"hint_hint_title": "Tom for idéer?"
+	"hint_hint_mouse_text": "Press scroll wheel or H|to highlight all|interctive items!"
+	"hint_hint_pad_text": "Trykk \*xb for å fremheve|alt som kan samhandles med!"
+	"hint_hint_touch_text_new": "Touch and hold|to highlight all|interactive items!"
+	"hint_hint_touch_text": "Touch the light|bulb to highlight all|interactive items!"
+	"hint_controls_title": "Controls",
+	"hint_controls_text": "Du kan spille med en|mus, en kontroller,|eller en touchskjerm!",
+	"hint_controls_mouse": "Bruk venstre museknapp for|å samhandle med ting!",
+	"hint_controls_controller": "Use \*ls to move and|\*ab button to interact!",
+	"hint_controls_touch": "Tap the screen|to interact!",
+	"hint_controls_touch2": "Tap with two fingers|to access pause menu!",
+	"unlock_quickaccess_title": "Hurtigmeny",
+	"unlock_quickaccess_text": "Use the Quick Menu|to access areas you|already visited!",
+	"unlock_show_title": "Keep Playing!",
+	"show_fence_text": "Spill flere runder for å|låse opp dette området!",
+	"show_bridge_text": "Vinn flere runder for|å komme forbi|dette punktet!",
+	"unlock_costumes_shop_title": "Kostymebutikk!",
+	"unlock_costumes_shop_text": "Visit the shop|to change McPixel's|costume!",
+	"unlock_costumes_title": "Nye kostymer!",
+	"unlock_costumes_text": "You unlocked new|costumes! Find them|in the shop!",
+	"unlock_endless_title": "Uendelig modus!",
+	"unlock_endless_text": "In Endless Mode|you play all the levels|you've already seen!",
+	"unlock_laugh_title": "Hva er dette?",
+	"unlock_laugh_text": "Ooooh!|What does this|button do?",
+	"show_laugh_title": "Laugh Track!",
+	"show_laugh_text1": "Congratulations for|beating McPixel 3!|Here's your prize!",
+	"show_laugh_text2": "The laugh track button!|Use this button to|turn on laugh track!",
+	"show_laugh_text3": "This button will|be here even if you|erase all progress!",
+	"show_laugh_text4": "So feel free to|play the game again|with laugh track!",
+	"show_laugh_text5": "You are the best!|Stay awesome!|- Sos Sosowski \u2665",
+	"show_costumes_title":"Dress up!"
+    "show_costumes_text1":"You can change how|McPixel looks in the|city level!"
+    "show_costumes_text2":"Some actions will|require McPixel to|dress back down."
+	"unlock_fence_title": "Area unlocked!",
+	"unlock_fence_text": "You unlocked|new areas!|Happy exploring!",
+	"unlock_bridge_title": "Area unlocked!",
+	"unlock_bridge_text": "You unlocked|new areas!|Happy exploring!",
+	"sumup_win": "Dagen er reddet!",
+	"sumup_gold": "Alle vitsene er funnet!",
+	"sumup_free": "Hva står på?",
+	"round_train_title": "Runde 1-A",
+	"round_train_name": "First come, First Boom",
+	"round_tiny_title": "Runde 1-B",
+	"round_tiny_name": "Firecrackers Away!",
+	"round_8bit_title": "Runde 1-C",
+	"round_8bit_name": "Boomer Man",
+	"round_heli_title": "Runde 2-A",
+	"round_heli_name": "Bomb Trip",
+	"round_og_title": "Runde 2-B",
+	"round_og_name": "Blast from the Past",
+	"round_tv_title": "Runde 2-C",
+	"round_tv_name": "Tubexplosive",
+	"round_fun_title": "Runde 4-A",
+	"round_fun_name": "This party is a bomb!",
+	"round_history_title": "Runde 3-A",
+	"round_history_name": "The Invention of Bomb",
+	"round_sport_title": "Runde 3-B",
+	"round_sport_name": "Bombastic Games",
+	"round_japan_title": "Runde 3-C",
+	"round_japan_name": "Bomboro",
+	"round_devolver_title": "Runde 4-B",
+	"round_devolver_name": "The Heist",
+	"round_fame_title": "Runde 4-C",
+	"round_fame_name": "Glamorous Endevour",
+	"round_steve_title": "Steve-runde",
+	"round_steve_name": "STEVE SUCKS, LOL",
+	"round_secret_title": "Hemmelig runde",
+	"round_secret_name": "The Weird Stuff",
+	"round_all_title": "Endless Mode",
+	"round_all_name": "Bombe etter bombe",
+	"pause_mainmenu":"Hovedmeny",
+	"pause_unpause":"Fortsett",
+	"pause_quit":"Avslutt",
+	"pause_more1":"Innstillinger",
+	"pause_integer":"Integer-skalering",
+	"pause_fullscreen":"Fullskjerm på/av",
+	"pause_letterbox":"Kinomodus",
+	"pause_frameskip":"30/60 FPS-modus",
+	"pause_filterup":"Neste filter",
+	"pause_filterdown":"Forrige filter",
+	"pause_more2":"Neste side",
+	"pause_less1":"Forrige side",
+	"pause_less2":"Forrige side",
+	"pause_erasesave":"Slett lagrefilen",
+	"pause_volumeup":"Lavere",
+	"pause_volumedown":"Høyere",
+	"pause_nextsong":"Neste sang",
+	"pause_prevsong":"Forrige sang",
+	"cofirm_quit_title": "Vil du virkelig avslutte?",
+	"cofirm_quit_text": "Er du virkelig, virkerlig|sikker på at du|vil avslutte?",
+	"cofirm_erase_title": "VIL DU SLETTE LAGREFILEN?",
+	"cofirm_erase_text": "Vil du slette fremgangen din?|Spillet vil bli tilbakestilt.",
+	"quick_main_title": "Hurtigmenyer",
+	"quick_main_name": "Snarveier!",
+	"quick_main_desc": "Få rask tilgang|til ting!",
+	"quick_story_button": "Kampanjemodus",
+	"quick_extras_button": "Bonuser",
+	"quick_options_button": "Innstillinger",
+	"quick_story_title": "Kampanjemodus",
+	"quick_chapter1_name": "Kapittel I",
+	"quick_chapter1_desc": "Absolutt|Bombtastisk",
+	"quick_chapter2_name": "Kapittel II",
+	"quick_chapter2_desc": "Bomb meg i|gang, kjære",
+	"quick_chapter3_name": "Kapittel III",
+	"quick_chapter3_desc": "Bomber|i farta",
+	"quick_chapter4_name": "Final Chapter",
+	"quick_chapter4_desc": "Denne har|sprengkraft",
+	"quick_extralevels_name": "Flere nivåer",
+	"quick_extralevels_desc": "Eksplosivt|kaliber",
+	"quick_other_levels_button": "Andre nivåer",
+	"quick_other_levels_title": "Andre nivåer",
+	"quick_other_levels_name": "Diverse",
+	"quick_other_levels_desc": "Ekstra og|bortklippet innhold",
+	"quick_tutorial_button": "Tutorial",
+	"quick_band_button": "Boom Band",
+	"quick_extras_title": "Bonuser",
+	"quick_videos_name": "Filmsone",
+	"quick_videos_desc": "Videoer|og klipp",
+	"quick_video1_button": "Video 1",
+	"quick_video2_button": "Video 2",
+	"quick_ending_button": "Story Ending",
+	"quick_languages_button": "Språk",
+	"quick_misc_name": "Diverse",
+	"quick_misc_desc": "Ting som ikke|passer inn",
+	"quick_minigames_button": "Minispill",
+	"quick_outfits_button": "Antrekk",
+	"quick_diskmark_button": "Disktesting",
+	"quick_benchmark_button": "Benkpress",
+	"quick_docs_name": "Dokumenter",
+	"quick_docs_desc": "Hjelp og|mer til!",
+	"quick_help_button": "Hvordan spille",
+	"quick_credits_button": "Rulletekst",
+	"quick_licences_button": "Lisenser",
+	"quick_button_locked": "Låst",
+	"benchmark_title": "Benkpress",
+	"benchmark_end": "Benkpress fullført",
+	"benchmark_points": "CPU-score: %d McPoeng",
+	"benchmark_average_fps": "FPS i gjennomsnitt: %d",
+	"benchmark_fps": "FPS",
+	"benchmark_ms": "ms",
+	"benchmark_scroller":"Welcome to McPixel Benchmark! Please do not use any controls or move the window while the benchmark is running! The benchmark will take about a minute! Begin when ready! Have fun! Cheers! ",
+	"press_start_default": "TRYKK START",
+	"press_start_mouse": "KLIKK FOR Å STARTE",
+	"press_start_controller": "TRYKK \*ab FOR Å STARTE",
+	"press_start_touch": "TRYKK FOR Å STARTE",
+	"hack_title0":"BOMBHACK OPEN BETA",
+	"hack_title1":"BOMBHACK 1.0",
+	"hack_title2":"BOMBHACK MK.2",
+	"hack_title3":"HACKERS OF BOMB 3",
+	"hack_title4":"BOMBHACK 98",
+	"hack_title5":"BOMBHACK ONE",
+	"hack_title6":"BOMBHACK BOMBHACK",
+	"hack_title7":"YOU KNOW WHAT THIS IS",
+	"hack_loading":"HACKING...",
+	"hack_wintitle":"HACKING COMPLETE",
+	"hack_option1":"1. EXPLODE",
+	"hack_option2":"2. HACK",
+	"hack_option3":"2. DISARM",
+	"costume_mcpixel": "McPixel",
+	"costume_mcbicycle": "McBike",
+	"costume_mcwhite": "Sir McWhite",
+	"costume_mcant": "McAnt",
+	"costume_mctia": "McTia",
+	"costume_mcboy": "McBoy",
+	"costume_mcvic": "McVic",
+	"costume_mc8bit": "McSprite",
+	"costume_mccga": "McCga",
+	"costume_mcstick": "McStick",
+	"costume_alien": "Alien",
+	"costume_frank": "Uncle Frank",
+	"costume_snek": "Snek",
+	"costume_wormpedo": "Wormpedo",
+	"costume_pot": "Flower Pot",
+	"costume_mccake": "McCake",
+	"costume_mcfish2": "McFish",
+	"costume_mcfish3": "McFish Mk. II",
+	"costume_mcape": "McPrime",
+	"costume_mcblue": "Sir McBlue",
+	"costume_mcred": "Sir McRed",
+	"costume_mcnaked2": "McNaked",
+	"costume_mcmud": "McMud",
+	"costume_mcsport3": "McSports",
+	"costume_mcsport4": "McSoccer",
+	"costume_mchockey": "McHockey",
+	"costume_mcbeach": "McBeach",
+	"costume_mcnaked": "McTowel",
+	"costume_mcrock": "McRock",
+	"costume_mctuxedo": "McFancy",
+	"costume_mckidnap": "McHelp",
+	"costume_mcrogue": "McRogue",
+	"costume_mcworm": "McWorm",
+	"costume_steve": "Steve",
+	"costume_locked": "Låst",
+	"help1_title":"Goal of the game",
+	"help1_text":"The goal of the game is to save|McPixel using any means.|Nothing else matters,|only McPixel must survive.",
+	"help2_title":"Stamps and coins",
+	"help2_text":"Discovering different outcomes|earns you coins. You can use|coins to unlock more rounds.|You get extra coins for finding|all gags in a level.",
+	"help3_title":"Runder og nivåer",
+	"help3_text":"Levels are arranged in rounds.|You play one round until you|beat all the levels. The levels you|already beat are skipped.",
+	"help4_title":"Finding all gags",
+	"help4_text":"When you beat a round you can|come back to find more gags|and collect coins. You will|play the round until you find|all gags in all levels.",
+	"help5_title":"Locked and secret levels",
+	"help5_text":"Some levels are locked and will|unlock after you beat previous|level. Some secret levels are|locked until you find a special|solution to unlock them.",
+	"help6_title":"Steve",
+	"help6_text":"In Steve levels, you can't win.|You don't need to find all gags |in Steve level to 100% the round|Steve is different than McPixel.|But perhaps he wish he wasn't...",
+	"help7_title":"McBurg",
+	"help7_text":"McBurg is the hub of McPixel's|adventures. Explore the town|to find rounds and secrets|Some areas might be locked.|Play more to unlock them.",
+	"help8_title":"Hurtigmeny",
+	"help8_text":"Quick Menu lets you access|everything you already found|in McBurg. But first, you|need to explore the city to find |and unlock more stuff.",
+	"help9_title":"Controller controls",
+	"help9_title_simple":"Controls",
+	"help9_text":"\*ls or \*ds - Move|\*ab or \*lb - OK / Interact|\*bb or \*lt - Back / Next target|\*xb or press \*ls - Hint|\*sb or \*yb - Pause",
+	"help9_text2":"\*ls or \*ds - Move|\*ab or \*lb - OK / Interact|\*bb or \*lt - Back / Next target|\*xb or press \*ls - Hint|\*yb - Pause",
+	"help9_text_simple":"\*ls - Move|\*ab - OK / Interact|\*bb - Back / Next target|\*xb - Hint|\*yb - Pause",
+	"help10_title":"Mouse controls",
+	"help10_text":"Left click - Interact|Right click / SPACE - Skip|Scroll wheel click - Hint|Escape - Menu",
+	"help11_title":"Touch controls",
+	"help11_text_new":"Tap to interact|Tap with two fingers|to access pause menu|Touch and hold to show hints|Swipe sideways to skip",
+	"help11_text":"Tap to interact|Tap wrench to access menu|Tap bulb to show hints|Tap fast forward to skip",
+	"help11_text_simple":"You can use the touch screen|to interact with the game too!",
+	"help12_title":"Extra PC controls!",
+	"help12_text":"F12 to take screenshot.|Hold G to record a GIF.|All screenshots are saved in|Documents/McPixel3",
+	"help13_title":"Hints (for game and life)",
+	"help13_text":"If you're lost, slow down a bit.|Ask a friend if you need help.|Sometimes the solution was |right under your nose all along.|Violence is always an answer.",
+	"help14_title":"Contact",
+	"help14_text":"If you need help or found any|bugs or want to say hi, join the|McPixel Discord, find @Sosowski|on Twitter or email me directly |at just.sos.it@gmail.com",
+	"credits_title":"McPixel 3"
+	"credits_the_end":"Slutt"
+	"credits_thank_you":"Thank you for playing|McPixel 3"
+	"credits_thanks_for_playing":"Thank you for playing"
+	"credits_created":"CREATED BY|Sos Sosowski"
+	"credits_published":"PUBLISHED BY|Devolver Digital"
+	"credits_graphics":"GRAPHICS"
+	"credits_production":"PRODUCTION"
+	"credits_programming":"PROGRAMMING"
+	"credits_marketing":"MARKETING"
+	"credits_music":"MUSIC"
+	"credits_community":"COMMUNITY"
+	"credits_game_design":"GAME DESIGN"
+	"credits_business_development":"BUSINESS DEVELOPMENT"
+	"credits_build_engineering":"BUILD ENGINEERING"
+	"credits_video_and_trailers":"VIDEO AND TRAILERS"
+	"credits_technical_artist":"TECH ARTIST"
+	"credits_executive_production":"EXECUTIVE PRODUCTION"
+	"credits_original_concept":"ORIGINAL CONCEPT"
+	"credits_finances":"FINANCES"
+	"credits_senior_pancake_assistant":"SENIOR PANCACE ASSISTANT"
+	"credits_testing_and_qa":"TESTING & QA"
+	"credits_localisation":"LOCALISATION"
+	"credits_special_thanks":"SPECIAL THANKS"
+	"credits_end_text":"Hope you had fun!"
+	"credits_end_text2":"Have a great day!"
+
+
+	"speedlines_13+save_the_day":"SAVE THE DAY!"
+	"speedlines_14+shoot":"SHOOT!"
+	"speedlines_15+drive":"DRIVE!"
+	"speedlines_16+fight":"FIGHT!"
+	"speedlines_20+save_the_day":"SAVE THE DAY!"
+	"speedlines_21+find_all_gags":"FIND ALL GAGS!"
+	"speedlines_21+free_play":"FREE PLAY"
+	"speedlines_24+the_day_is_saved":"THE DAY IS SAVED"
+	"speedlines_25+100percent":"100%"
+	"speedlines_26+solve":"SOLVE!"
+	"speedlines_27+poop":"POOP!"
+	"speedlines_28+jump":"JUMP!"
+	"speedlines_29+run":"RUN!"
+	"speedlines_30+play":"PLAY!"
+	"speedlines_31+bonus_level":"BONUS LEVEL!"
+	"speedlines_32+what":"WHAT?!"
+	"speedlines_32+heist":"HEIST"
+
+	"stamp_0+saved":"REDDET"
+	"stamp_1+won":"VUNNET"
+	"stamp_2+yeah":"JADA"
+
+	"menu_lumpexsign":"T-Shop",
+	"menu_gamesign":"SPILL",
+	"menu_hotelsign":"Hotello",
+	"lvl_secret_level":"Hemmelig nivå"
+	"lvl_vote_vote":"Stem"
+	"lvl_vote_sosowski_the_best":"SOS SOSOWSKI IS THE BEST HUMAN --- "
+	"lvl_space2_engine_meltdown":"ENGINE MELTDOWN"
+	"lvl_apes_you_win":"Du vinner!"
+	"lvl_gameshow_police":"112",
+	"lvl_dance_foodburg":"Foodburg",
+	"lvl_mart_fart_mart":"Fart Mart"
+	"lvl_fite_ko":"KO"
+	"pause_mcburg":"McBurg",
+	"costume_mcavantgarde": "McWhat",
+	"hint_minigame_title": "Minispill",
+	"hint_minigame_text": "Du kan styre|minispill med|tastaturet også!",
+	"hint_minigame_text2": "Bruk piltaster og mellomrom|for å styre i dem!",
+	"quick_button_steve":"Steve-runde"
+  "quick_button_endless":"Uendelig"
+	"welcome":"Hallo",
+	"welcome_user":"Hallo, %s!",
+	"show_treasure_title":"Free Money!",
+	"show_treasure_text":"Running low?|Open the treasure|to get free coins!",
+
+	"unlock_mailbox_title": "Free DLC!",
+	"unlock_mailbox_text": "Check mailbox|to find extra|levels to play!",
+
+	"dlc_new_title": "New DLC!",
+	"dlc_new_text": "You have mail!|Check mailbox for|new levels!",
+
+	"dlc_letter_title":"Sos",
+	"dlc_tab_free_dlc":"Free DLC",
+	"dlc_tab_user_dlc":"User DLC",
+	"dlc_tab_create_dlc":"Create",
+	"dlc_button_level":"Load Level",
+	"dlc_button_round":"Load Round",
+	"dlc_button_docs":"Documentation",
+	"dlc_title":"DLC Round",
+	"dlc_granny_letter_text":"Hi, McPixel!|This is grandma!|Come and visit me!| - Grandma",
+	"dlc_granny_letter_title":"Grandma",
+	"dlc_granny_name":"Bomb my granny",
+	"dlc_granny_you_farted":"YOU FARTED",
+
+	"dlc_remaster_letter_text":"Hi!|Play the remasters|of the first six levels|created for McPixel in 2011.|-Sos",
+	"dlc_remaster_letter_title":"Sos",
+	"dlc_remaster_name":"The Original Six",
+	"dlc_remaster_virgin":"INSERT VIRGIN",
+	"dlc_remaster_sosodore":"*** SOSODORE 64 ***",
+	"dlc_remaster_ready":"READY.",
+	"dlc_remaster_load":"LOAD \"ALIEN SHOOTER\"",
+	"are_you_sure":"Er du sikker?",
+	"creator_warning_title":"WARNING!!!",
+	"creator_warning_text1":"Malicious content may|erase your progress or|damage your computer!",
+	"creator_warning_text2":"Stay safe!|Only load levels from|trusted sources!",
+	"creator_english_title":"English only!",
+	"creator_english_text":"Level creator and its|documentation is only|available in English!",
+	"speedlines+dont_fart":"DON'T FART",
+	"speedlines+save_the_granny":"SAVE_THE_GRANNY",
+	"speedlines+granny_is_saved":"GRANNY IS SAVED",
+}
